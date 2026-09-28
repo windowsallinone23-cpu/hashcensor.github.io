@@ -1,0 +1,161 @@
+# HashCensor word list
+# One word or phrase per line, lowercase. Lines starting with # are comments.
+# Leetspeak (sh1t, f*ck, b!tch) and spacing tricks (f.u.c.k) are handled by the
+# plugin, so only write the plain spelling. A trailing "s" is matched automatically;
+# list other inflections (fucked, fucking) as their own lines.
+# Delete any line you don't want censored.
+
+# ---- Common swear words ----
+fuck
+fucked
+fucker
+fuckers
+fucking
+motherfucker
+motherfucking
+fuk
+fck
+shit
+shitty
+shithead
+bullshit
+horseshit
+dipshit
+shite
+bitch
+bitches
+bitchy
+asshole
+arsehole
+ass
+asshat
+jackass
+dumbass
+badass
+bastard
+dick
+dickhead
+cock
+cocksucker
+prick
+pussy
+twat
+wanker
+tosser
+bollocks
+bugger
+cunt
+piss
+pissed
+crap
+douche
+douchebag
+slut
+slutty
+whore
+skank
+hoe
+tits
+boobs
+cum
+jizz
+blowjob
+handjob
+dildo
+wtf
+stfu
+milf
+
+# ---- Mild (delete these if you only want the strong stuff gone) ----
+damn
+damned
+goddamn
+goddamnit
+hell
+screw you
+suck it
+jerk
+retard
+retarded
+moron
+idiot
+stupid
+dumb
+
+# ---- Racial / ethnic slurs ----
+nigger
+nigga
+niggas
+negro
+coon
+darkie
+spook
+jigaboo
+porch monkey
+sambo
+wetback
+beaner
+spic
+gringo
+chink
+gook
+jap
+zip
+slant
+chinaman
+paki
+raghead
+towelhead
+sand nigger
+camel jockey
+kike
+hymie
+heeb
+kraut
+honky
+cracker
+whitey
+redskin
+injun
+squaw
+gypsy
+gyp
+wop
+dago
+guinea
+mick
+polack
+
+# ---- Homophobic / transphobic slurs ----
+fag
+faggot
+faggy
+fagot
+dyke
+homo
+queer
+tranny
+shemale
+ladyboy
+sodomite
+fudgepacker
+carpet muncher
+
+# ---- Ableist slurs ----
+spaz
+spastic
+mongoloid
+cripple
+tard
+libtard
+retarded
+
+# ---- Other ----
+incel
+simp
+rape
+raped
+rapist
+kys
+kill yourself
+neck yourself

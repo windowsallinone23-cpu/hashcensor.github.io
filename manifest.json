@@ -1,0 +1,8 @@
+{
+  "name": "HashCensor",
+  "description": "Replaces swear words and slurs in messages with # characters (client-side only).",
+  "authors": [{ "name": "you" }],
+  "main": "index.js",
+  "hash": "hashcensor-1",
+  "vendetta": { "icon": "ic_warning_24px" }
+}
